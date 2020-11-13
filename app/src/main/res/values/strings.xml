@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FinalProjectMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="android_map_api_key">AIzaSyBwiLUSR4uKt7Z_ls5mje3M1cvsMKNufcc</string>
+</resources>
